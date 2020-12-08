@@ -1,0 +1,10 @@
+ftp:
+  client:
+    host: FTP_HOST
+    port: FTP_PORT
+    username: FTP_USERNAME
+    password: FTP_PASSWORD
+    connect-timeout: 30000
+    passive-mode: true
+    enable-debug: true
+    min-login: 1
